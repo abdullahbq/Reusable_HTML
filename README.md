@@ -18,4 +18,8 @@ With the introduction of Web Components, you can create your own custom HTML ele
 </script>
 ```
 
+Usage in html file
+```
 <my-custom-element></my-custom-element>
+
+```
