@@ -3,7 +3,7 @@ In HTML, reusable elements typically refer to HTML elements that can be used mul
 ### Custom Elements (Web Components):
 With the introduction of Web Components, you can create your own custom HTML elements that encapsulate functionality and styling. Custom elements allow you to define new tags with associated JavaScript logic and CSS styles. They are designed to be reusable and can be easily included in different parts of your HTML.
 
-#### Example of defining a custom element:
+### Example of defining a custom element:
 
 ```html
 <script>
